@@ -1,0 +1,2 @@
+# exportar los arboles a PNG 
+matplotlib>=3.5
