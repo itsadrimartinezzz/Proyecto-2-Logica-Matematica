@@ -118,9 +118,9 @@ El proyecto incluye seis fórmulas del enunciado, entre ellas fórmulas satisfac
 
 ## Autores
 
-Adriana Martínez -- 24086
-Daniel Sandoval -- 24885
-Diego Sandoval -- 231977
-Saúl Castillo -- 24915
-Diego Gudiel -- 24451
-Luis Alejandro Hernández -- 241424
+- Adriana Martínez -- 24086
+- Daniel Sandoval -- 24885
+- Diego Sandoval -- 231977
+- Saúl Castillo -- 24915
+- Diego Gudiel -- 24451
+- Luis Alejandro Hernández -- 241424
